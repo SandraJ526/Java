@@ -11,9 +11,6 @@ public class Main {
         if (number < 0) {
             System.out.println("Invalid Value");
 
-        } else if (number == 0) {
-            System.out.println("Zero");
-
         } else {
             number = reverse(number);
 
